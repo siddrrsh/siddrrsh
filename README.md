@@ -2,7 +2,7 @@
 
 I'm a first year student in CS + Econ/Math at Stanford! I'm interested in AI research and am currently pursuing NLP research at SAIL. I also enjoy working at the intersection of healthcare and computer science and am fortunate enough to work with Dr. Daniel Rubin on such projects. 
 
-In my free time, I enjoy playing basketball, cooking, and hiking. You can reach me at sidshr 'at' stanford.edu
+In my free time, I enjoy playing + watching tennis and basketball, cooking, and hiking. You can reach me at sidshr 'at' stanford.edu
 
 <!--
 **siddrrsh/siddrrsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
